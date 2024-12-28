@@ -1,0 +1,9 @@
+version : 2
+
+sources:
+  - name: Traffic_Growth
+    database: GLOBAL_PUBLIC__PRIVATE_COMPANIES_TRAFFIC_GROWTH
+    schema: DATAFEEDS
+    tables:
+      - name: global_growth
+
